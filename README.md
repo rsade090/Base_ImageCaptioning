@@ -1,4 +1,4 @@
-# Base_ImageCaptioning
+# Image Captioning from scratch
 I have used this repository to follow my coding 
 
 
